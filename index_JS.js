@@ -1,4 +1,4 @@
-const API_KEY="76975dfd9bf09ff67e22b42685e06572";
+const API_KEY="YOUR_API_KEY";
 
 const speechRecognition=window.webkitSpeechRecognition //Google Chrome 
 ||
