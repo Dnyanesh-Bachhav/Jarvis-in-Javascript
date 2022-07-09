@@ -34,8 +34,8 @@
     "step out" : "moveToXAxisOut()",
     "step in" : "moveToXAxisIn()",
 
-    "what's up jarvis" : "Speak('i am fine and hope you too...')",
-    "whatsapp jarvis" : "Speak('i am fine and hope you too...')",
+    "what's up jarvis" : "Speak('i am fine...')",
+    "whatsapp jarvis" : "Speak('i am fine...')",
     "how are you jarvis" : "Speak('i an an ai and ais dont have emotions...')",
     "what is my name jarvis" : "Speak('Your name is sam tucker'); Speak('but i usually know to you as sir')",
     "what is my name" : "Speak('Your name is sam tucker'); Speak('but i usually know to you as sir')",
