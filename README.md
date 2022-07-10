@@ -1,5 +1,7 @@
 # Jarvis-in-Javascript
 ![JARVIS_THUMBNAIL](./Jarvis_Thumbnail.png)
+
+
 Welcome everyone..🙏🙏
 
 ✔️ To get started with project download this repo and follow below steps accordingly:
