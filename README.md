@@ -1,5 +1,5 @@
 # Jarvis-in-Javascript
-![JARVIS_THUMBNAIL](./Jarvis_Thumbnail.png)
+![JARVIS_THUMBNAIL](./Images/Jarvis_Thumbnail.png)
 
 
 Welcome everyone..🙏🙏
